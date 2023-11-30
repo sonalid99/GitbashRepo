@@ -8,5 +8,6 @@ public class GitClass {
 	public void testClass() {
 		
 		System.out.println("===hii==");
+		System.out.println("===bye");
 	}
 }
